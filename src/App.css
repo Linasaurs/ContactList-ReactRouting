@@ -1,0 +1,68 @@
+label {
+  font-weight: bold;
+}
+
+span {
+  display: block;
+  margin-bottom: -6px;
+}
+
+h1 {
+  color: rgba(22, 123, 255, 0.8);
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  margin-left: -150px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+}
+
+.contactlist {
+  display: flex;
+  justify-content: center;
+  align-items: center stretch;
+}
+
+.card {
+  display: flex;
+  margin: 10px;
+  padding: 10px;
+  height: auto;
+  flex-direction: column;
+  width: fit-content;
+}
+
+.card-img-top {
+  width: 100px !important;
+  height: auto;
+  align-self: center;
+}
+
+.btn-primary {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.form-group {
+  margin: 20px;
+}
+
+.form-control {
+  width: fit-content !important;
+  margin: 20px;
+}
+
+.row {
+  margin-left: 10px !important;
+}
+
+#userDetails{
+  text-align:center;
+}
+
+#userDetails .row{
+  display:block;
+  margin:0px !important;
+}
